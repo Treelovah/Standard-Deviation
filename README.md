@@ -1,4 +1,4 @@
-# Statistics program to calculate Standard Deviation and other shit for class;
+# Statistics program to calculate Standard Deviation and other statistics for class;
 ## using std=c++11
 
 1. find `makefile`
